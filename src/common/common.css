@@ -1,0 +1,25 @@
+.component-body-container {
+    padding: 20px;
+}
+
+.custom-btn {
+    padding: 10px;
+    border: none;
+    margin-right: 10px;
+    text-transform: uppercase;
+    width: 80px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    border-radius: 25px;
+    width: 90px;
+    height: 40px;
+    background: #9c9794;
+} 
+
+.add-btn {
+    background: #0a68e2;
+    color: #fff;
+    border-radius: 20px;
+    width: 110px;
+    height: 40px;
+}
